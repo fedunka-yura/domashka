@@ -1,0 +1,237 @@
+
+@media only screen and (min-width: 480px) {
+  body{
+    background-image: url(../image/image.jpg);
+    
+}
+.tft1{ 
+   opacity: 0.9;
+    background: #3B549F;
+    border-radius: 50px;
+    padding: 50px;
+    height: 521px;
+    width: 1230px;
+    position: absolute;
+    left: 120px;
+    top: 98px;
+}
+.tft{
+    color: #F0B52B;
+    opacity: 1;
+    
+}
+
+
+
+.tft2{
+    color:#F0B52B;
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 0px;
+   
+}
+
+.h1{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 300px;
+    top: 100px;
+    
+    
+}
+
+.h2{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 100px;
+    top: -38px;
+    
+}
+
+.h3{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 100px;
+    bottom: 187px;
+    
+}
+
+.h4{
+    font-size: 70px;
+   display: flex;
+    justify-content: center;
+    position: relative;
+    left: 280px;
+    bottom: 365px;
+    
+}
+
+.h5{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 300px;
+    bottom: 440px;
+    
+}
+
+.h6{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 500px;
+   bottom: 530px;
+}
+
+.h7{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 695px;
+   bottom: 620px;
+}
+
+.h8{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 880px;
+   bottom: 650px;
+}
+ 
+}
+@media only screen and (min-width: 992px) {
+  body{
+    background-image: url(../image/image.jpg);
+    
+}
+.tft1{ 
+   opacity: 0.9;
+    background: #3B549F;
+    border-radius: 50px;
+    padding: 50px;
+    height: 521px;
+    width: 1230px;
+    position: absolute;
+    left: 120px;
+    top: 98px;
+}
+.tft{
+    color: #F0B52B;
+    opacity: 1;
+    
+}
+
+
+
+.tft2{
+    color:#F0B52B;
+    opacity: 1;
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 0px;
+   
+}
+
+.h1{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 300px;
+    top: 100px;
+    
+}
+
+.h2{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    right: 100px;
+    top: -38px;
+    
+}
+
+.h3{
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    left: 100px;
+    bottom: 187px;
+    
+}
+
+.h4{
+    font-size: 70px;
+   display: flex;
+    justify-content: center;
+    position: relative;
+    left: 280px;
+    bottom: 365px;
+    
+}
+
+.h5{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 300px;
+    bottom: 440px;
+    
+}
+
+.h6{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 500px;
+   bottom: 530px;
+}
+
+.h7{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 695px;
+   bottom: 620px;
+}
+
+.h8{
+    color: #F0B52B;
+    opacity: 1;
+    font-size: 25px;
+    display: block;
+    position: relative;
+    left: 880px;
+   bottom: 650px;
+}
+
+ 
+}
+
+
